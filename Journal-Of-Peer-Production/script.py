@@ -108,8 +108,8 @@ def convert_html_to_tex():
 \\setcounter{secnumdepth}{0}
 \\addtolength{\\parskip}{6pt}
 \\renewcommand{\\ttdefault}{pcr}
-\setlength{\\parindent}{0cm}
-\pagestyle{fancy}
+\\setlength{\\parindent}{0cm}
+\\pagestyle{fancy}
 \\fancyhead{}
 \\lfoot{}
 \\cfoot{\\thepage{}}
